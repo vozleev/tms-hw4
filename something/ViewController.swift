@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        
         var array = [1, 2, 3]
 
         let secondArray = [4, 5, 6]
